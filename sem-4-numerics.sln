@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sem-4-numerics-lab-7", "sem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "advanced math", "..\advanced-math\advanced math\advanced math.vcxproj", "{2561AD00-9790-453D-87CD-6289E1194A21}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sem-4-numerics-total", "sem-4-numerics-total\sem-4-numerics-total.vcxproj", "{D803E6BE-9959-4AAA-9FBB-A573637C6655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{2561AD00-9790-453D-87CD-6289E1194A21}.Release|x64.Build.0 = Release|x64
 		{2561AD00-9790-453D-87CD-6289E1194A21}.Release|x86.ActiveCfg = Release|Win32
 		{2561AD00-9790-453D-87CD-6289E1194A21}.Release|x86.Build.0 = Release|Win32
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Debug|x64.ActiveCfg = Debug|x64
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Debug|x64.Build.0 = Debug|x64
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Debug|x86.ActiveCfg = Debug|Win32
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Debug|x86.Build.0 = Debug|Win32
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Release|x64.ActiveCfg = Release|x64
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Release|x64.Build.0 = Release|x64
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Release|x86.ActiveCfg = Release|Win32
+		{D803E6BE-9959-4AAA-9FBB-A573637C6655}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
